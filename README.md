@@ -4,8 +4,7 @@ An AI conversational chatbot inspired by **Doraemon**, built using **HuggingFace
 The chatbot maintains conversation context and responds in a friendly Doraemon-like personality.
 
 ##  Live Demo
-
-[(Insert your HuggingFace Spaces link here)](https://huggingface.co/spaces/Purnapragya/doraemon_chatbot)
+https://huggingface.co/spaces/Purnapragya/doraemon_chatbot
 
 ## Features
 
